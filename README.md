@@ -29,6 +29,7 @@ Also nowadays school/college related stuffs getting messed with the personal lif
 this issue to a large extend by enabling a single window for teachers and faculty to manage all school/college related stuffs.</p>
 
 <a id="Screenshots"></a>
+
 <h3>📷 Screenshots</h3>
 
 <a href="https://drive.google.com/uc?export=view&id=1obGZ6FDJq2xK_1LDRsd92Zcr6NozaGkw"><img src="https://drive.google.com/uc?export=view&id=1obGZ6FDJq2xK_1LDRsd92Zcr6NozaGkw" style="width: 48%; max-width: 100%; height: auto" title="Click to enlarge picture" />
@@ -56,6 +57,7 @@ this issue to a large extend by enabling a single window for teachers and facult
 <a id="tech-stack"></a>
 
 ## 📦 Technology Stack
+
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) <br/>
 ![Scss](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)<br/>
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)<br/>
@@ -65,10 +67,10 @@ this issue to a large extend by enabling a single window for teachers and facult
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)<br/>
 
 ### Tools used
+
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)<br/>
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)<br/>
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)<br/>
-
 
 <a id="wow-factors"></a>
 
@@ -79,21 +81,3 @@ this issue to a large extend by enabling a single window for teachers and facult
 - Admin specific features for teachers & faculty <br/>
 - Multiple form validations and error checking <br/>
 - Downloadable PWA(Progressive Web App) <br/>
-
-
-<a id="future-work"></a>
-
-## 📅 Future Work:
-
-- Improve performance
-- stable video conferance
-- scaling video meetings to more members
-- adding more convineant option in meeting
-
-## 🐱‍👤 Contributors:
-
-- [Abhik Das](https://github.com/abhidevs)
-- [Biswanath Bera](https://github.com/Bisu03)
-- [Rabbil khan](https://github.com/Rabbkhan)
-- [Soumen Sau](https://github.com/Soumen2022)
-- [Soumen Jana](https://github.com/soumyaroy13336)
