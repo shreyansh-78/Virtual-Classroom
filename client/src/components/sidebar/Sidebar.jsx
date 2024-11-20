@@ -27,11 +27,11 @@ const Sidebar = () => {
     <div className="sidebar">
       <h2>Calendar</h2>
       <Calendar
-        className="calendar"
-        showWeekNumbers
-        onChange={onChange}
-        value={date}
+      className="calendar"
+      onChange={onChange}
+      value={date}
       />
+
       <HomeWidget
         title="All Classes"
         type="all-classes"
