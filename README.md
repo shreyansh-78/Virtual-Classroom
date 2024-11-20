@@ -30,7 +30,7 @@ this issue to a large extend by enabling a single window for teachers and facult
 
 <h3>📷 Screenshots</h3>
 
-<a href="https://drive.google.com/uc?export=view&id=1obGZ6FDJq2xK_1LDRsd92Zcr6NozaGkw"><img src="https://drive.google.com/uc?export=view&id=1obGZ6FDJq2xK_1LDRsd92Zcr6NozaGkw" style="width: 48%; max-width: 100%; height: auto" title="Click to enlarge picture" />
+<a href="https://drive.google.com/file/d/1JRvdJ-tt3E11aItSzPBix2N5hhA1MxQz/view?usp=sharing"><img src="https://drive.google.com/file/d/1JRvdJ-tt3E11aItSzPBix2N5hhA1MxQz/view?usp=sharing" style="width: 48%; max-width: 100%; height: auto" title="Click to enlarge picture" />
 <a href="https://drive.google.com/uc?export=view&id=1rWWxDR8SKa40WRZQ-1pSTltNlMFz45NO"><img src="https://drive.google.com/uc?export=view&id=1rWWxDR8SKa40WRZQ-1pSTltNlMFz45NO" style="width: 48%; max-width: 100%; height: auto" title="Click to enlarge picture" />
 <a href="https://drive.google.com/uc?export=view&id=1rVuklDaXX3FEAHgTdKbtrNvFw_2x6M6W"><img src="https://drive.google.com/uc?export=view&id=1rVuklDaXX3FEAHgTdKbtrNvFw_2x6M6W" style="width: 48%; max-width: 100%; height: auto" title="Click to enlarge picture" />
 <a href="https://drive.google.com/uc?export=view&id=1cJynwDgq6FV6BID1BoBn9zte_BDdhNFf"><img src="https://drive.google.com/uc?export=view&id=1cJynwDgq6FV6BID1BoBn9zte_BDdhNFf" style="width: 48%; max-width: 100%; height: auto" title="Click to enlarge picture" />
