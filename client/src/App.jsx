@@ -20,6 +20,7 @@ import Doubts from "./pages/doubts/Doubts";
 import IndividualDoubt from "./pages/individualDoubt/IndividualDoubt";
 import { AuthContext } from "./context/authContext/AuthContext";
 import UserUpdate from "./pages/userUpdate/userUpdate"
+import Students from "./pages/students/Students";
 function App() {
   const { user, isFetching } = useContext(AuthContext);
 
@@ -65,6 +66,9 @@ function App() {
               </Route>
               <Route path="/createclass">
                 <CreateClass />
+              </Route>
+              <Route path="/students">
+                <Students />
               </Route>
               <Route path="/userupdate">
                 <UserUpdate />

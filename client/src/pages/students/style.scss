@@ -1,0 +1,22 @@
+.students {
+    padding: 20px;
+  
+    h2 {
+      color: var(--primary-color);
+      font-family: "Inter", sans-serif;
+      text-align: center;
+    }
+  
+    .student-item {
+      padding: 10px;
+      border-bottom: 1px solid var(--border-color);
+    }
+  
+    .loading-container {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+    }
+  }
+  

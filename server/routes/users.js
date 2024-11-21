@@ -4,7 +4,7 @@ const User = require("../models/User");
 const jwt = require("jsonwebtoken");
 const verify = require("../verifyToken");
 
-// Get
+// Get User by ID
 router.get("/:id", async (req, res) => {
   try {
     const user = await User.findById(req.params.id);
@@ -15,7 +15,22 @@ router.get("/:id", async (req, res) => {
   }
 });
 
-// Update
+// Get All Students (NEW ROUTE)
+router.get("/students", verify, async (req, res) => {
+  try {
+    // Check if the user is a teacher or admin
+    if (req.user.isTeacher || req.user.isAdmin) {
+      const students = await User.find({ isTeacher: false }).select("-password"); // Exclude password field
+      res.status(200).json(students);
+    } else {
+      res.status(403).json("You're not allowed to access this resource!");
+    }
+  } catch (err) {
+    res.status(500).json({ error: "Failed to fetch students", details: err });
+  }
+});
+
+// Update User
 router.put("/:id", verify, async (req, res) => {
   if (req.user.id === req.params.id || req.user.isAdmin) {
     if (req.body.password) {
@@ -50,7 +65,7 @@ router.put("/:id", verify, async (req, res) => {
   }
 });
 
-// Delete
+// Delete User
 router.delete("/:id", verify, async (req, res) => {
   if (req.user.id === req.params.id || req.user.isAdmin) {
     try {

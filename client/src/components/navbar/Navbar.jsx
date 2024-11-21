@@ -197,20 +197,38 @@ const Navbar = () => {
                 </ListItem>
               </Link>
 
-              <Link to="/createclass" className="link" style={linkStyle}>
-                <ListItem
-                  button
-                  style={listItemStyle}
-                  onClick={() => setProfileOptionsDialogOpened(false)}
-                >
-                  <VideoCallOutlinedIcon style={iconStyle} />
-                  <ListItemText
-                    disableTypography
-                    style={listItemTextStyle}
-                    primary="Create Meeting"
-                  />
-                </ListItem>
-              </Link>
+              {user?.isTeacher && (
+  <Link to="/createclass" className="link" style={linkStyle}>
+    <ListItem
+      button
+      style={listItemStyle}
+      onClick={() => setProfileOptionsDialogOpened(false)}
+    >
+      <VideoCallOutlinedIcon style={iconStyle} />
+      <ListItemText
+        disableTypography
+        style={listItemTextStyle}
+        primary="Create Meeting"
+      />
+    </ListItem>
+  </Link>
+)}
+{user?.isTeacher && (
+  <Link to="/students" className="link" style={linkStyle}>
+    <ListItem
+      button
+      style={listItemStyle}
+      onClick={() => setProfileOptionsDialogOpened(false)}
+    >
+      <AccountCircleOutlinedIcon style={iconStyle} />
+      <ListItemText
+        disableTypography
+        style={listItemTextStyle}
+        primary="All Students"
+      />
+    </ListItem>
+  </Link>
+)}
 
               <Divider variant="fullWidth" />
               <ListItem
