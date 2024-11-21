@@ -1,4 +1,4 @@
-# 📘 WEBDESK
+# 📘 Virtual Classroom
 
 ####
 
@@ -30,16 +30,16 @@ this issue to a large extend by enabling a single window for teachers and facult
 
 <h3>📷 Screenshots</h3>
 
-<a href="https://drive.google.com/uc?export=view&id=1obGZ6FDJq2xK_1LDRsd92Zcr6NozaGkw"><img src="https://drive.google.com/uc?export=view&id=1obGZ6FDJq2xK_1LDRsd92Zcr6NozaGkw" style="width: 48%; max-width: 100%; height: auto" title="Click to enlarge picture" />
-<a href="https://drive.google.com/uc?export=view&id=1rWWxDR8SKa40WRZQ-1pSTltNlMFz45NO"><img src="https://drive.google.com/uc?export=view&id=1rWWxDR8SKa40WRZQ-1pSTltNlMFz45NO" style="width: 48%; max-width: 100%; height: auto" title="Click to enlarge picture" />
-<a href="https://drive.google.com/uc?export=view&id=1rVuklDaXX3FEAHgTdKbtrNvFw_2x6M6W"><img src="https://drive.google.com/uc?export=view&id=1rVuklDaXX3FEAHgTdKbtrNvFw_2x6M6W" style="width: 48%; max-width: 100%; height: auto" title="Click to enlarge picture" />
-<a href="https://drive.google.com/uc?export=view&id=1cJynwDgq6FV6BID1BoBn9zte_BDdhNFf"><img src="https://drive.google.com/uc?export=view&id=1cJynwDgq6FV6BID1BoBn9zte_BDdhNFf" style="width: 48%; max-width: 100%; height: auto" title="Click to enlarge picture" />
-<a href="https://drive.google.com/uc?export=view&id=1mMYlo5Ae9vKb-f5WQShOVCMnnv6xUVuW"><img src="https://drive.google.com/uc?export=view&id=1mMYlo5Ae9vKb-f5WQShOVCMnnv6xUVuW" style="width: 48%; max-width: 100%; height: auto" title="Click to enlarge picture" />
-<a href="https://drive.google.com/uc?export=view&id=14I9_b7fq43RB6za2x1rLaqhuONdiu_B_"><img src="https://drive.google.com/uc?export=view&id=14I9_b7fq43RB6za2x1rLaqhuONdiu_B_" style="width: 48%; max-width: 100%; height: auto" title="Click to enlarge picture" />
-<a href="https://drive.google.com/uc?export=view&id=1vU1RhezqpIz5rQ9OfCh7YwEFV9Hz4wuK"><img src="https://drive.google.com/uc?export=view&id=1vU1RhezqpIz5rQ9OfCh7YwEFV9Hz4wuK" style="width: 48%; max-width: 100%; height: auto" title="Click to enlarge picture" />
-<a href="https://drive.google.com/uc?export=view&id=1-HPVe5mxWFBFrGPbKD3Raw-ehlTK5bu0"><img src="https://drive.google.com/uc?export=view&id=1-HPVe5mxWFBFrGPbKD3Raw-ehlTK5bu0" style="width: 48%; max-width: 100%; height: auto" title="Click to enlarge picture" />
-<a href="https://drive.google.com/uc?export=view&id=1whwLzN-LfneHSTRXC9snsq4e-1mGxLOj"><img src="https://drive.google.com/uc?export=view&id=1whwLzN-LfneHSTRXC9snsq4e-1mGxLOj" style="width: 48%; max-width: 100%; height: auto" title="Click to enlarge picture" />
-<a href="https://drive.google.com/uc?export=view&id=1NBtWHDeF8_YxteGcVo44H6w-CfZPlYtf"><img src="https://drive.google.com/uc?export=view&id=1NBtWHDeF8_YxteGcVo44H6w-CfZPlYtf" style="width: 48%; max-width: 100%; height: auto" title="Click to enlarge picture" />
+<a href="https://drive.google.com/uc?export=view&id=1U1WB2NfAtBjjBTw82Gc6Al_0qtj5tSvC"><img src="https://drive.google.com/uc?export=view&id=1U1WB2NfAtBjjBTw82Gc6Al_0qtj5tSvC" style="width: 48%; max-width: 100%; height: auto" title="Click to enlarge picture" />
+<a href="https://drive.google.com/uc?export=view&id=1OCV9kBcUsyo00ePvoxfKi2-EEsxGYArd"><img src="https://drive.google.com/uc?export=view&id=1OCV9kBcUsyo00ePvoxfKi2-EEsxGYArd" style="width: 48%; max-width: 100%; height: auto" title="Click to enlarge picture" />
+<a href="https://drive.google.com/uc?export=view&id=1JRvdJ-tt3E11aItSzPBix2N5hhA1MxQz"><img src="https://drive.google.com/uc?export=view&id=1JRvdJ-tt3E11aItSzPBix2N5hhA1MxQz" style="width: 48%; max-width: 100%; height: auto" title="Click to enlarge picture" />
+<a href="https://drive.google.com/uc?export=view&id=1hefYkHaxhBXSZqI_kKkjnxlsctGDH_4Y"><img src="https://drive.google.com/uc?export=view&id=1hefYkHaxhBXSZqI_kKkjnxlsctGDH_4Y" style="width: 48%; max-width: 100%; height: auto" title="Click to enlarge picture" />
+<a href="https://drive.google.com/uc?export=view&id=1E4E-u9gEHO3Ld-evix93_-VktEmDovUn"><img src="https://drive.google.com/uc?export=view&id=1E4E-u9gEHO3Ld-evix93_-VktEmDovUn" style="width: 48%; max-width: 100%; height: auto" title="Click to enlarge picture" />
+<a href="https://drive.google.com/uc?export=view&id=1Wt-EkKvmD-s13DsfxvQLyCfZkve9JXQY"><img src="https://drive.google.com/uc?export=view&id=1Wt-EkKvmD-s13DsfxvQLyCfZkve9JXQY" style="width: 48%; max-width: 100%; height: auto" title="Click to enlarge picture" />
+<a href="https://drive.google.com/uc?export=view&id=1caK9LW6mm0BydiSE8jCM7LcQhtvl9FyZ"><img src="https://drive.google.com/uc?export=view&id=1caK9LW6mm0BydiSE8jCM7LcQhtvl9FyZ" style="width: 48%; max-width: 100%; height: auto" title="Click to enlarge picture" />
+<a href="https://drive.google.com/uc?export=view&id=1_Hgcuz2Crc09LTIgNsKwimoalN3KY7kI"><img src="https://drive.google.com/uc?export=view&id=1_Hgcuz2Crc09LTIgNsKwimoalN3KY7kI" style="width: 48%; max-width: 100%; height: auto" title="Click to enlarge picture" />
+<a href="https://drive.google.com/uc?export=view&id=1aVEP40tFUc_WkJZuvxqHgnJT0dhRxOx3"><img src="https://drive.google.com/uc?export=view&id=1aVEP40tFUc_WkJZuvxqHgnJT0dhRxOx3" style="width: 48%; max-width: 100%; height: auto" title="Click to enlarge picture" />
+<a href="https://drive.google.com/uc?export=view&id=17HYJ1vGWFn_iIp8m9bFltxwqlWrws5Yf"><img src="https://drive.google.com/uc?export=view&id=17HYJ1vGWFn_iIp8m9bFltxwqlWrws5Yf" style="width: 48%; max-width: 100%; height: auto" title="Click to enlarge picture" />
 
 <a id="Key-Features"></a>
 
